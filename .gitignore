@@ -1,0 +1,53 @@
+# Arquivos e diretórios gerados pelo Maven
+target/
+!target/.gitignore
+
+# Configurações locais do Maven
+.mvn/
+.settings/
+.settings.xml
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do IDE
+.idea/
+*.iml
+.vscode/
+
+# Arquivos de compilação
+*.class
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+
+# Arquivos de teste
+test-output/
+
+# Arquivos gerados pelo Eclipse
+.project
+.classpath
+
+# Arquivos gerados pelo IntelliJ IDEA
+*.ipr
+*.iws
+*.idea/
+
+# Arquivos gerados pelo NetBeans
+nbproject/private/
+build/
+dist/
+
+# Arquivos gerados pelo VS Code
+.vscode/
